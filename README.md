@@ -1,1 +1,2 @@
-Fire up the Jupyter Notebook for comprehensive instructions and get going, fellas!
+# Pose Graph SLAM
+Implementation of Pose Graph 2D SLAM using non-linear least squares method.
